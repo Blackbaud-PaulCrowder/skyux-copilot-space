@@ -1,4 +1,4 @@
-             Skip to Main Content
+             
 
  1.  [Home](/skyux/)
 2.  [Learn](/skyux/learn.md)
@@ -11,12 +11,8 @@ Page summary
 
 The [page summary](/skyux/components/page-summary.md) component is deprecated in favor of the [page](/skyux/components/page.md) component's `sky-page-header` component. For page templates and techniques to summarize page content, see the [page design guidelines](/skyux/design/guidelines/page-layouts.md).
 
-[
-
 How to migrate
 --------------
-
-](/skyux/learn/develop/deprecation/page-summary#how-to-migrate.md)
 
 SKY UX created a migration script to help you migrate to the page header component. From a project that uses the page summary component, run the following command:
 
@@ -28,24 +24,16 @@ npx ng g @skyux/packages:convert-page-summary-to-page-header
 
     npx ng g @skyux/packages:convert-page-summary-to-page-header
 
-[
-
 What to review after the script
 -------------------------------
-
-](/skyux/learn/develop/deprecation/page-summary#what-to-review-after-the-script.md)
 
 After running the migration script, you should review the following items in your project:
 
 *   The `<sky-page-summary-key-info>` component that places key information to the right of the page summary is no longer supported. The content has been moved to `<sky-page-header-details>`. Please review the changes and the design guidelines below to update your code accordingly.
 *   The migration script uses the `<sky-page-header>` component but does not use `<sky-page>`. Review the [page component](/skyux/components/page.md) documentation and consider using the `<sky-page>` component. The page component provides additional features such as a page title and layout options.
 
-[
-
 Design guidelines
 -----------------
-
-](/skyux/learn/develop/deprecation/page-summary#design-guidelines.md)
 
 ### Page header content
 

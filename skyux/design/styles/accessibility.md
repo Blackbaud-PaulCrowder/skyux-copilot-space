@@ -1,4 +1,4 @@
-            Skip to Main Content
+            
 
  1.  [Home](/skyux/)
 2.  [Design](/skyux/design.md)
@@ -10,12 +10,8 @@ Accessibility
 
 Accessibility classes help you deliver highly accessible experiences with SKY UX.
 
-[
-
 Screen readers
 --------------
-
-](/skyux/design/styles/accessibility#screen-readers.md)
 
 `sky-screen-reader-only`
 

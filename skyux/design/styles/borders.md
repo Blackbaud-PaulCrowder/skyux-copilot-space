@@ -1,4 +1,4 @@
-             Skip to Main Content
+             
 
  1.  [Home](/skyux/)
 2.  [Design](/skyux/design.md)
@@ -8,22 +8,12 @@
 Borders and shadows
 ===================
 
-On this page
-============
-
-1.  [Borders and lines](/skyux/design/styles/borders#borders-and-lines.md)
-2.  [Elevation](/skyux/design/styles/borders#elevation.md)
-
 SKY UX uses various border and shadow styles to bound, divide, and highlight content. The styles are designed to maintain visual hierarchy regardless of how complex pages become or how many nested containers they include.
 
 As with other types of formatting or decoration in SKY UX, use lines minimally. Remember that white space and positioning can group or highlight content without extra subdivisions or boundaries.
 
-[
-
 Borders and lines
 -----------------
-
-](/skyux/design/styles/borders#borders-and-lines.md)
 
 In general, components handle borders and line styles.
 
@@ -52,12 +42,8 @@ Rounded corners are used on containers and interactive elements.
 
 `class="sky-rounded-corners"`
 
-[
-
 Elevation
 ---------
-
-](/skyux/design/styles/borders#elevation.md)
 
 In general, components handle the use of elevation. The elevation level determines the appearance of its shadow.
 

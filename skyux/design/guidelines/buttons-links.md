@@ -1,4 +1,4 @@
-            Skip to Main Content
+            
 
  1.  [Home](/skyux/)
 2.  [Design](/skyux/design.md)
@@ -10,19 +10,8 @@ Buttons and links
 
 Two interacting principles guide SKY UX hyperlinks and [buttons](/skyux/components/button.md): style and implementation. Style determines the appropriate appearance of an affordance to the user, while implementation involves the core HTML decision to use the `<a>` element or the `<button>` element. In SKY UX, these guidelines overlap and interact: Differences in styling do not need to correspond to the use of different tags.
 
-On this page
-============
-
-1.  [Style](/skyux/design/guidelines/buttons-links#style.md)
-2.  [Implementation](/skyux/design/guidelines/buttons-links#implementation.md)
-3.  [Tooltips](/skyux/design/guidelines/buttons-links#tooltips.md)
-
-[
-
 Style
 -----
-
-](/skyux/design/guidelines/buttons-links#style.md)
 
 SKY UX uses several [styles for buttons and hyperlinks](/skyux/components/button.md). The differences in appearance carry meaning about roles in the system, distinguish between navigation and action, or convey different levels of emphasis or priority.
 
@@ -69,12 +58,8 @@ Inline links receive the least visual weight and appear inline with text instead
 *   Links to external applications or services, such as a street address that links to a map application
     
 
-[
-
 Implementation
 --------------
-
-](/skyux/design/guidelines/buttons-links#implementation.md)
 
 SKY UX styles allow `<a>` and `<button>` elements to appear interchangeable, but subtle differences in behavior make it important to select the correct implementation. Most notably, the elements differ in right-click options, long-touch and force-touch behaviors for mobile browsers, keyboard shortcuts, and their behavior with screen readers and other assistive technology.
 
@@ -87,12 +72,8 @@ Follow this guidance on which HTML tag to use in SKY UX:
 
 Only use `<a>` elements when nothing changes about the state of the system and users just navigate from one view to another. If affordances load new URLs but also perform other actions, use `<button>` elements. For example, while an affordance to delete a record page redirects users to a new view, it also changes the state of the system by deleting data, so it requires a `<button>` element.
 
-[
-
 Tooltips
 --------
-
-](/skyux/design/guidelines/buttons-links#tooltips.md)
 
 For buttons that use [icons](/skyux/components/icon.md) without labels and buttons that are not intuitive, you can provide tooltips as necessary to define the button actions. However, we recommend that you rely on button labels whenever possible while also taking design patterns into account. Do not arbitrarily replace button labels with tooltips.
 

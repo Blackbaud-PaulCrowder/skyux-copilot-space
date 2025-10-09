@@ -1,4 +1,4 @@
-             Skip to Main Content
+             
 
  1.  [Home](/skyux/)
 2.  [Design](/skyux/design.md)
@@ -10,21 +10,8 @@ Page design
 
 Page design patterns accommodate a wide variety scenarios and workflow requirements to facilitate consistent, cohesive user experiences.
 
-On this page
-============
-
-1.  [Page patterns](/skyux/design/guidelines/page-layouts#page-patterns.md)
-2.  [Page titles](/skyux/design/guidelines/page-layouts#page-titles.md)
-3.  [Fluid grid system](/skyux/design/guidelines/page-layouts#fluid-grid-system.md)
-4.  [Responsive design](/skyux/design/guidelines/page-layouts#responsive-design.md)
-5.  [Primary button guidelines](/skyux/design/guidelines/page-layouts#primary-button-guidelines.md)
-
-[
-
 Page patterns
 -------------
-
-](/skyux/design/guidelines/page-layouts#page-patterns.md)
 
 While you can use SKY UX to create any page layout you need, Blackbaud solutions utilize on some common page patterns.
 
@@ -52,21 +39,13 @@ Aggregate tasks and content related to a particular record.
 
 Provide a workspace for users to quickly work through a list of items.
 
-[
-
 Page titles
 -----------
 
-](/skyux/design/guidelines/page-layouts#page-titles.md)
-
 Page titles uniquely identify the contents of pages. They are concise and direct, and they indicate the purpose of the pages to get users up to speed quickly. For guidance on creating page titles, see the [Content guidelines](/skyux/design/guidelines/content#page-titles.md).
-
-[
 
 Fluid grid system
 -----------------
-
-](/skyux/design/guidelines/page-layouts#fluid-grid-system.md)
 
 SKY UX layouts use a [fluid grid](/skyux/components/fluid-grid.md) system to respond to changes in the size of devices or viewports. Fluid grids provide padding on both sides of columns for consistent spacing between columns and at the edges. Columns are fluid, but spacing is constant.
 
@@ -88,12 +67,8 @@ When you hide all containers in a column, the surrounding content moves to the l
 
 Columns move left when you hide an entire column.
 
-[
-
 Responsive design
 -----------------
-
-](/skyux/design/guidelines/page-layouts#responsive-design.md)
 
 We rely on the column drop pattern to create responsive designs. This pattern utilizes a multi-column layout and the full width of the screen. The column drop pattern displays columns horizontally at full width and then stacks columns vertically when the screen width becomes too narrow for the content. When and how to stack columns at different breakpoints depends on the content.
 
@@ -135,12 +110,8 @@ Horizontal [description lists](/skyux/components/description-list.md) respond to
 
 ![undefined](https://sky.blackbaudcdn.net/skyuxapps/skyux/assets/img/guidelines/pagelayout/responsive-description-list-two-column.03a8f775ef311e6000a2eff292ce423f.png)
 
-[
-
 Primary button guidelines
 -------------------------
-
-](/skyux/design/guidelines/page-layouts#primary-button-guidelines.md)
 
 All SKY UX page layouts follow consistent guidelines for the placement and styling of primary buttons.
 

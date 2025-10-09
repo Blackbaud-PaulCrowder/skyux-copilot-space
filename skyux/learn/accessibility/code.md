@@ -1,4 +1,4 @@
-            Skip to Main Content
+            
 
  1.  [Home](/skyux/)
 2.  [Learn](/skyux/learn.md)
@@ -10,12 +10,8 @@ Code for accessibility
 
 To build an accessible application, you must leverage the technical tools and features built into SKY UX components and also understand how to use them effectively alongside accessibility best practices.
 
-[
-
 Development best practices
 --------------------------
-
-](/skyux/learn/accessibility/code#development-best-practices.md)
 
 *   Use structural semantic markup. This ensures that the role of elements and their relationships is available programmatically to user agents that help to communicate the content's meaning.
     
@@ -34,12 +30,8 @@ Development best practices
     3.  Follow the W3C's [WAI-ARIA Authoring Practices Guide](https://www.w3.org/WAI/ARIA/apg/practices/read-me-first/).
         
 
-[
-
 SKY UX component features for accessible experiences
 ----------------------------------------------------
-
-](/skyux/learn/accessibility/code#sky-ux-component-features-for-accessible-experiences.md)
 
 *   Use the built-in features of SKY UX components, such as:
     

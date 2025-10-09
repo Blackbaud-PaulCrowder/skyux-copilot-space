@@ -1,4 +1,4 @@
-            Skip to Main Content
+            
 
  1.  [Home](/skyux/)
 2.  [Contribute](/skyux/contribute.md)
@@ -8,21 +8,13 @@ Contribute
 
 Community efforts improve SKY UX and help us serve the needs of end users in SKY UX solutions.
 
-[
-
 Development contributions
 -------------------------
 
-](/skyux/contribute#development-contributions.md)
-
 We highly encourage contributions from SKY UX users. We just ask you to follow the coding conventions in the existing code and to write the appropriate documentation and unit tests for your feature. To learn how to contribute to the SKY UX code framework, review [our contribution guidelines](https://github.com/blackbaud/skyux/blob/main/CONTRIBUTING.md).
-
-[
 
 The SKY UX team
 ---------------
-
-](/skyux/contribute#the-sky-ux-team.md)
 
 ![](https://sky.blackbaudcdn.net/skyuxapps/skyux/assets/minifigs/adam-f.f738c5d58a2468ef21128557e353c468.jpg)![](https://sky.blackbaudcdn.net/skyuxapps/skyux/assets/minifigs/adam-f-full.d09d93546509e77809355d083323ccdc.jpg)
 
@@ -102,12 +94,8 @@ Trevor
 
 Software Engineer
 
-[
-
 Key contributors
 ----------------
-
-](/skyux/contribute#key-contributors.md)
 
 ![](https://sky.blackbaudcdn.net/skyuxapps/skyux/assets/minifigs/adam-h.e015e37a29146a77b9b2ed670f83f84b.jpg)![](https://sky.blackbaudcdn.net/skyuxapps/skyux/assets/minifigs/adam-h-full.49c3cf7e9ac61d5d4e0c53bd3c16d363.jpg)
 

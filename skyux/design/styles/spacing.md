@@ -1,4 +1,4 @@
-             Skip to Main Content
+             
 
  1.  [Home](/skyux/)
 2.  [Design](/skyux/design.md)
@@ -10,20 +10,8 @@ Spacing
 
 SKY UX provides two spacing approaches that can be used together when laying out content: [fluid grid](/skyux/components/fluid-grid.md) and spacing classes. Fluid grid works well when laying out containers and sections within containers, and the spacing classes work well when laying out content within sections.
 
-On this page
-============
-
-1.  [Horizontal spacing with fluid grid](/skyux/design/styles/spacing#horizontal-spacing-with-fluid-grid.md)
-2.  [Horizontal spacing with classes](/skyux/design/styles/spacing#horizontal-spacing-with-classes.md)
-3.  [Vertical spacing](/skyux/design/styles/spacing#vertical-spacing.md)
-4.  [Container padding](/skyux/design/styles/spacing#container-padding.md)
-
-[
-
 Horizontal spacing with fluid grid
 ----------------------------------
-
-](/skyux/design/styles/spacing#horizontal-spacing-with-fluid-grid.md)
 
 The [fluid grid](/skyux/components/fluid-grid.md) component provides a responsive 12-column layout to organize content for all device sizes. You can apply different gutters between columns to use space efficiently and prevent elements from running together visually.
 
@@ -55,12 +43,8 @@ Use large gutters to separate content or containers in large areas, such as page
 
 `gutterSize="large"`
 
-[
-
 Horizontal spacing with classes
 -------------------------------
-
-](/skyux/design/styles/spacing#horizontal-spacing-with-classes.md)
 
 When content or container widths are not dynamic, use spacing classes instead of [fluid grid](/skyux/components/fluid-grid.md). The amount of vertical spacing depends on the relationship between elements.
 
@@ -125,12 +109,8 @@ Borderless sections of loosely related content and sections of unrelated content
 
 `class="sky-margin-inline-xxl"`
 
-[
-
 Vertical spacing
 ----------------
-
-](/skyux/design/styles/spacing#vertical-spacing.md)
 
 ### Stacked-xs
 
@@ -197,12 +177,8 @@ Borderless sections of loosely related content and sections of unrelated content
 
 `class="sky-margin-stacked-xxl"`
 
-[
-
 Container padding
 -----------------
-
-](/skyux/design/styles/spacing#container-padding.md)
 
 Containers require padding to set their content away from the container edge. The amount of padding differs based on the size of the container. In general, SKY UX components handle padding for you.
 

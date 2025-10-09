@@ -1,4 +1,4 @@
-            Skip to Main Content
+            
 
  1.  [Home](/skyux/)
 2.  [Learn](/skyux/learn.md)
@@ -10,21 +10,13 @@ Recently accessed links
 
 Both the [sky-action-hub](/skyux/components/action-hub?docs-active-tab=development#class-skyactionhubcomponent.md) and the [sky-link-list-recently-accessed](/skyux/components/page?docs-active-tab=development#class-skypagelinkscomponent.md) components support displaying a list of recently accessed links.
 
-[
-
 Overview
 --------
 
-](/skyux/learn/develop/recently-accessed-links#overview.md)
-
 Some applications may want to display a list of recently accessed links to help users quickly navigate to frequently visited pages.
-
-[
 
 Configuration
 -------------
-
-](/skyux/learn/develop/recently-accessed-links#configuration.md)
 
 To implement recently accessed links, you must provide an implementation of `SkyRecentlyAccessedService`.
 
@@ -98,12 +90,8 @@ Copy
       }
     }
 
-[
-
 Implementation
 --------------
-
-](/skyux/learn/develop/recently-accessed-links#implementation.md)
 
 With the service in place, a small amount of code is needed to display the list of recently accessed links:
 

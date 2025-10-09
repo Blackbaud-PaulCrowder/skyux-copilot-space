@@ -1,4 +1,4 @@
-             Skip to Main Content
+             
 
  1.  [Home](/skyux/)
 2.  [Design](/skyux/design.md)
@@ -10,24 +10,10 @@ Colors
 
 As a general rule, SKY UX uses color to convey meaning and not as pure decoration. You should rarely apply colors directly to elements because components incorporate colors as necessary. If a need for color arises outside of a component, you likely need to create a component for that scenario.
 
-On this page
-============
-
-1.  [Text](/skyux/design/styles/color#text.md)
-2.  [Backgrounds](/skyux/design/styles/color#backgrounds.md)
-3.  [Highlights](/skyux/design/styles/color#highlights.md)
-4.  [Borders](/skyux/design/styles/color#borders.md)
-5.  [Categorization](/skyux/design/styles/color#categorization.md)
-6.  [Data visualization](/skyux/design/styles/color#data-visualization.md)
-
 Each color has a corresponding [CSS custom property](https://developer.mozilla.org/en-US/docs/Web/CSS/--*) declared at the document's [root](https://developer.mozilla.org/en-US/docs/Web/CSS/:root) element. You can use these custom properties with the [CSS `var()` function](https://developer.mozilla.org/en-US/docs/Web/CSS/var) as values in your own CSS classes.
-
-[
 
 Text
 ----
-
-](/skyux/design/styles/color#text.md)
 
 Ensure that the contrast between the text color and the background color is at least 4.5:1 to meet Web Content Accessibility Guidelines 2.1 level AA.
 
@@ -55,12 +41,8 @@ The color for text on dark backgrounds, such as primary and danger button labels
 
 Text color for links and link buttons. `--sky-text-color-action-primary`
 
-[
-
 Backgrounds
 -----------
-
-](/skyux/design/styles/color#backgrounds.md)
 
 ### Page background
 
@@ -134,12 +116,8 @@ The background color for elements that convey a "danger" status, such as alerts 
 
 The background color for buttons that invoke primary actions that are destructive, such as deleting an item. `--sky-background-color-danger-dark`
 
-[
-
 Highlights
 ----------
-
-](/skyux/design/styles/color#highlights.md)
 
 ### Info highlight
 
@@ -165,12 +143,8 @@ The highlight color for elements that convey a "warning" status, such as alerts 
 
 The highlight color for elements that convey a "danger" status, such as alerts or labels. `--sky-highlight-color-danger`
 
-[
-
 Borders
 -------
-
-](/skyux/design/styles/color#borders.md)
 
 ### Medium border
 
@@ -184,12 +158,8 @@ The color for borders that separate containers from their surroundings. `--sky-b
 
 The color for borders of inputs or controls with no internal text, such as checkboxes or radio buttons. `--sky-border-color-neutral-medium-dark`
 
-[
-
 Categorization
 --------------
-
-](/skyux/design/styles/color#categorization.md)
 
 Use categorization colors to categorize blocks of content when the distinction between types of content is significant to users. For example, use categorization colors for different types of events in calendars.
 
@@ -235,12 +205,8 @@ The background color for categorized content. `--sky-category-color-yellow`
 
 The background color for categorized content. `--sky-category-color-red`
 
-[
-
 Data visualization
 ------------------
-
-](/skyux/design/styles/color#data-visualization.md)
 
 ### Categorical palette
 

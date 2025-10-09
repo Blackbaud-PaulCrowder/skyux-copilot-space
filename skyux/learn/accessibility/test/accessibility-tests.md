@@ -1,4 +1,4 @@
-            Skip to Main Content
+            
 
  1.  [Home](/skyux/)
 2.  [Learn](/skyux/learn.md)
@@ -11,23 +11,10 @@ Accessibility tests
 
 The [`@skyux-sdk/testing` library](https://github.com/blackbaud/skyux/tree/main/libs/sdk/testing) provides methods to run [`axe-core` automated accessibility tests](https://github.com/dequelabs/axe-core) in your unit tests. `axe-core` is an open source library of automated accessibility rules that is integrated into SKY UX to identify potential issues for a subset of the [Web Content Accessibility Guidelines 2.2 Level A and AA success criteria](https://www.w3.org/TR/WCAG22/).
 
-On this page
-============
-
-1.  [Import SKY UX SDK testing library](/skyux/learn/accessibility/test/accessibility-tests#import-sky-ux-sdk-testing-library.md)
-2.  [Import the expectAsync function](/skyux/learn/accessibility/test/accessibility-tests#import-the-expectasync-function.md)
-3.  [Insert the expectAsync function and toBeAccessible matcher](/skyux/learn/accessibility/test/accessibility-tests#insert-the-expectasync-function-and-tobeaccessible-matcher.md)
-4.  [Overwrite accessibility checks](/skyux/learn/accessibility/test/accessibility-tests#overwrite-accessibility-checks.md)
-5.  [Review accessibility failures](/skyux/learn/accessibility/test/accessibility-tests#review-accessibility-failures.md)
-
 We strongly recommend that you use unit tests instead of end-to-end tests based on [Angular's guidance on testing](https://v9.angular.io/guide/testing#use-e2e-end-to-end-to-test-more-than-a-single-unit), which describes many advantages of unit tests over e2e tests. SKY UX guidance is to only use e2e tests as a last resort when you can't use Angular's testing framework to examine or interact with the DOM.
-
-[
 
 Import SKY UX SDK testing library
 ---------------------------------
-
-](/skyux/learn/accessibility/test/accessibility-tests#import-sky-ux-sdk-testing-library.md)
 
 The first step to run accessibility checks in SKY UX unit tests is to import the [`@skyux-sdk/testing` library](https://github.com/blackbaud/skyux/tree/main/libs/sdk/testing) into your SPA. This library provides methods to interact with SKY UX during Karma unit tests. For accessibility testing, it extends the Jasmine `expectAsync` function to add the `toBeAccessible` matcher.
 
@@ -41,12 +28,8 @@ npm install @skyux-sdk/testing --save-dev --save-exact
 
 By default, the `SkyA11yAnalyzerConfig` interface specifies [configuration settings for `toBeAccessible` to indicate which accessibility checks to run](https://github.com/blackbaud/skyux/blob/main/libs/sdk/testing/src/lib/a11y/a11y-analyzer.ts). To overwrite the default accessibility checks, you can modify [a parameter for the `toBeAccessible` matcher](/skyux/learn/accessibility/test/accessibility-tests#overwrite-accessibility-checks.md).
 
-[
-
 Import the `expectAsync` function
 ---------------------------------
-
-](/skyux/learn/accessibility/test/accessibility-tests#import-the-expectasync-function.md)
 
 After you import the testing library, the next step to run accessibility checks in unit tests is to import the extended Jasmine `expectAsync` function into `.spec.ts` files. At the top of the spec files for the components to test, import the function from the testing library:
 
@@ -63,12 +46,8 @@ Copy
 
 After you import the `expectAsync` function, you can use it to run accessibility tests for components. For components that change state, you can insert the function into existing `it` blocks. And, for components that don't change state, the function can stand alone to run accessibility checks from its own `it` block.
 
-[
-
 Insert the `expectAsync` function and `toBeAccessible` matcher
 --------------------------------------------------------------
-
-](/skyux/learn/accessibility/test/accessibility-tests#insert-the-expectasync-function-and-tobeaccessible-matcher.md)
 
 After you import the `expectAsync` function into spec files, the next step is to wrap the `expectAsync` function around the elements to test for accessibility.
 
@@ -83,12 +62,8 @@ Copy
       await expectAsync(element).toBeAccessible();
     }));
 
-[
-
 Overwrite accessibility checks
 ------------------------------
-
-](/skyux/learn/accessibility/test/accessibility-tests#overwrite-accessibility-checks.md)
 
 You can specify an optional parameter within the `toBeAccessible` matcher to overwrite [the default accessibility checks that `SkyA11yAnalyzerConfig` specifies](https://github.com/blackbaud/skyux/blob/main/libs/sdk/testing/src/lib/a11y/a11y-analyzer.ts).
 
@@ -113,12 +88,8 @@ Copy
       });
     }));
 
-[
-
 Review accessibility failures
 -----------------------------
-
-](/skyux/learn/accessibility/test/accessibility-tests#review-accessibility-failures.md)
 
 When you include accessibility rules in your unit tests, you may run into errors that uncover accessibility issues. Here is an example of an error message that appears in the command log when you run `ng test`:
 

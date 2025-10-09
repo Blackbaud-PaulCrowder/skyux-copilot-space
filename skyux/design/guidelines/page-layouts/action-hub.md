@@ -1,4 +1,4 @@
-             Skip to Main Content
+             
 
  1.  [Home](/skyux/)
 2.  [Design](/skyux/design.md)
@@ -11,12 +11,8 @@ Action hub
 
 Action hubs direct user attention to important actions and provide quick access to common tasks. They aggregate entry points into tasks that might otherwise be spread across multiple pages.
 
-[
-
 Usage
 -----
-
-](/skyux/design/guidelines/page-layouts/action-hub#usage.md)
 
 ### Use when
 
@@ -30,12 +26,8 @@ Do use action hubs to present prescriptive calls to action.
 
 Don't use action hubs to present information that is not actionable. Analyze information for users to provide context and make it actionable.
 
-[
-
 Anatomy
 -------
-
-](/skyux/design/guidelines/page-layouts/action-hub#anatomy.md)
 
 1
 
@@ -67,23 +59,15 @@ Settings (optional)
 
 ![image](https://sky.blackbaudcdn.net/skyuxapps/skyux/assets/img/guidelines/action-hub/action-hub-anatomy.01bf467e0d29a369fc5f6fde6c5dbb07.png)
 
-[
-
 Options
 -------
-
-](/skyux/design/guidelines/page-layouts/action-hub#options.md)
 
 ### Common actions
 
 You can include up to three secondary buttons to provide quick access to common tasks, such as adding a record. If you need to group multiple related actions, use a menu button.
 
-[
-
 Content
 -------
-
-](/skyux/design/guidelines/page-layouts/action-hub#content.md)
 
 ### Needs attention
 
@@ -169,12 +153,8 @@ Display up to five items in reverse chronological order to indicate what users a
 
 Optionally include links to the settings applicable to functionality within the action hub and its descendant pages.
 
-[
-
 Behavior and states
 -------------------
-
-](/skyux/design/guidelines/page-layouts/action-hub#behavior-and-states.md)
 
 ### Needs attention
 
@@ -204,12 +184,8 @@ Action hubs reflow content in small viewports.
 
 ![undefined](https://sky.blackbaudcdn.net/skyuxapps/skyux/assets/img/guidelines/action-hub/action-hub-responsive-600.9b0cbf8ae4e49923d5d5cd9a8c68a4b8.png)
 
-[
-
 Related information
 -------------------
-
-](/skyux/design/guidelines/page-layouts/action-hub#related-information.md)
 
 ### Components
 

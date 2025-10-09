@@ -1,4 +1,4 @@
-            Skip to Main Content
+            
 
  1.  [Home](/skyux/)
 2.  [Design](/skyux/design.md)
@@ -7,12 +7,8 @@
 SKY UX design principles
 ========================
 
-[
-
 Focus on the workflow
 ---------------------
-
-](/skyux/design/principles#focus-on-the-workflow.md)
 
 ### Keep users in context
 
@@ -22,12 +18,8 @@ Deliver what users need where they are. Don't make them go on an expedition.
 
 Organize information and actions based on what users are trying to do, not on the structure of the database.
 
-[
-
 Empower users
 -------------
-
-](/skyux/design/principles#empower-users.md)
 
 ### Provide a starting point
 
@@ -41,12 +33,8 @@ Allow users to focus on higher-level tasks by synthesizing data and automating a
 
 Get users up to speed quickly and provide a path to get increased value out of the system over time.
 
-[
-
 Maintain a clean, cohesive interface
 ------------------------------------
-
-](/skyux/design/principles#maintain-a-clean-cohesive-interface.md)
 
 ### Attention should drive behavior
 

@@ -1,4 +1,4 @@
-             Skip to Main Content
+             
 
  1.  [Home](/skyux/)
 2.  [Design](/skyux/design.md)
@@ -10,12 +10,8 @@ Typography
 
 SKY UX supports a set of semantically defined classes for text to ensure consistent usage and to maintain visual hierarchy of type. Components generally incorporate text classes as necessary, but you may find cases where you need to apply classes directly. Styling values in the table below are for reference only; you should apply styling through the use of the classes.
 
-[
-
 Headings
 --------
-
-](/skyux/design/styles/typography#headings.md)
 
 Use headings to describe sections of content or as titles of containers. In most cases, use `<h1>` - `<h5>` elements for their corresponding heading styles. In rare cases, you may also use the classes listed below to apply heading styles. For example, you can use `<h2>` for semantic reasons, but change its style to `class="sky-font-heading-3"` to fit the visual hierarchy of a page.
 
@@ -83,12 +79,8 @@ Use this class for the smallest headings on a page.
 *   `<h5>`
 *   `class="sky-font-heading-5"`
 
-[
-
 Body copy
 ---------
-
-](/skyux/design/styles/typography#body-copy.md)
 
 Use body copy for the majority of text on a page.
 
@@ -113,12 +105,8 @@ BLKB Sans
 
 `class="sky-font-body-sm"`
 
-[
-
 Display fonts
 -------------
-
-](/skyux/design/styles/typography#display-fonts.md)
 
 Use display fonts to call attention to particularly important information.
 
@@ -154,12 +142,8 @@ BLKB Sans Semibold
 
 `class="sky-font-display-4"`
 
-[
-
 Miscellaneous
 -------------
-
-](/skyux/design/styles/typography#miscellaneous.md)
 
 ### Emphasized
 

@@ -1,4 +1,4 @@
-             Skip to Main Content
+             
 
  1.  [Home](/skyux/)
 2.  [Design](/skyux/design.md)
@@ -11,12 +11,8 @@ List page
 
 List pages allow the user to filter, sort, search and take action on lists of items.
 
-[
-
 Usage
 -----
-
-](/skyux/design/guidelines/page-layouts/list-page#usage.md)
 
 ### Use when
 
@@ -30,12 +26,8 @@ Do use list pages when users need to work with a set, subset or individual item.
 
 Don't use list pages when you can predict what users need to do and can provide a first-class experience for that task.
 
-[
-
 Anatomy
 -------
-
-](/skyux/design/guidelines/page-layouts/list-page#anatomy.md)
 
 1
 
@@ -75,12 +67,8 @@ Summary details (optional)
 
 ![image](https://sky.blackbaudcdn.net/skyuxapps/skyux/assets/img/guidelines/pagelayout/list-page/list-page-anatomy.d162aa04033f3a1544bec6eef766dd65.png)
 
-[
-
 Options
 -------
-
-](/skyux/design/guidelines/page-layouts/list-page#options.md)
 
 ### Tabs
 
@@ -132,12 +120,8 @@ When filters or search criteria are applied to a list, update the list count and
 
 Do update summary details when filters or search criteria are applied to a list. To provide context, update the list count label to include 'match.'
 
-[
-
 Behavior and states
 -------------------
-
-](/skyux/design/guidelines/page-layouts/list-page#behavior-and-states.md)
 
 ### Links to records
 
@@ -147,23 +131,15 @@ Links to records in the list should navigate users to the record page.
 
 Use pagination with 30 items per page to divide up lists. Don't use infinite scroll.
 
-[
-
 Content
 -------
-
-](/skyux/design/guidelines/page-layouts/list-page#content.md)
 
 ### Tab label
 
 The tab should only include the descriptive label. Do not include the list count in the tab.
 
-[
-
 Layout
 ------
-
-](/skyux/design/guidelines/page-layouts/list-page#layout.md)
 
 ### List page with a single list
 
@@ -183,12 +159,8 @@ Layout
 
 ![undefined](https://sky.blackbaudcdn.net/skyuxapps/skyux/assets/img/guidelines/pagelayout/list-page/list-page-tabs-layout.e08a98de0ab19dcd0703b912e4f5d8e9.png)
 
-[
-
 Related information
 -------------------
-
-](/skyux/design/guidelines/page-layouts/list-page#related-information.md)
 
 ### Components
 

@@ -1,4 +1,4 @@
-              Skip to Main Content
+              
 
  1.  [Home](/skyux/)
 2.  [Design](/skyux/design.md)
@@ -10,32 +10,15 @@ User assistance
 
 When users perform tasks and explore functionality, they may require guidance. To determine how much guidance to provide, you must account for the complexity of the task, the complexity of the user interface, and the expected knowledge of users. User assistance design patterns help determine when and how to present help content to users.
 
-On this page
-============
-
-1.  [Usage](/skyux/design/guidelines/user-assistance#usage.md)
-2.  [Empty-state help](/skyux/design/guidelines/user-assistance#empty-state-help.md)
-3.  [Inline help](/skyux/design/guidelines/user-assistance#inline-help.md)
-4.  [Preloaded popovers](/skyux/design/guidelines/user-assistance#preloaded-popovers.md)
-5.  [Preloaded help widget](/skyux/design/guidelines/user-assistance#preloaded-help-widget.md)
-
-[
-
 Usage
 -----
-
-](/skyux/design/guidelines/user-assistance#usage.md)
 
 SKY UX design patterns include four primary techniques to display help content: empty-state help, inline help, the preloaded help widget, and preloaded popovers. To determine the appropriate technique for user assistance, consider the complexity of the task and the expected knowledge of users. The chart below provides a matrix to determine the type of user assistance to provide in different scenarios. Do not overuse help content because it can overwhelm or inhibit users. For example, only preload the help widget or popovers when user research supports the need for those techniques. When in doubt, err on the side of empty-state help and inline help.
 
 ![undefined](https://sky.blackbaudcdn.net/skyuxapps/skyux/assets/img/guidelines/userassistance/help-chart.b6ae6ed22308f143e523604d675ac4c2.png)
 
-[
-
 Empty-state help
 ----------------
-
-](/skyux/design/guidelines/user-assistance#empty-state-help.md)
 
 ### Usage
 
@@ -58,12 +41,8 @@ Empty-state help content explains how users can take advantage of the functional
 
 Center empty-state help in its content container.
 
-[
-
 Inline help
 -----------
-
-](/skyux/design/guidelines/user-assistance#inline-help.md)
 
 ### Invoked inline help
 
@@ -141,12 +120,8 @@ Be concise and use persistent inline help to provide context about the container
 
 ![undefined](https://sky.blackbaudcdn.net/skyuxapps/skyux/assets/img/guidelines/userassistance/persistent-inline-help-containers.5bd2bf453c34111d444fc0e0c402a24a.png)
 
-[
-
 Preloaded popovers
 ------------------
-
-](/skyux/design/guidelines/user-assistance#preloaded-popovers.md)
 
 ### Usage
 
@@ -159,12 +134,8 @@ Preloaded popovers
 
 Popovers are also useful [for invoked inline help](/skyux/design/guidelines/user-assistance#inline-help.md). For tasks with familiar or basic capabilities, they allow users to display contextual content when they interact with trigger elements.
 
-[
-
 Preloaded help widget
 ---------------------
-
-](/skyux/design/guidelines/user-assistance#preloaded-help-widget.md)
 
 ### Usage
 

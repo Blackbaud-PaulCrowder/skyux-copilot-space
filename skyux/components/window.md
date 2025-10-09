@@ -1,6 +1,4 @@
-# Development
-
-               Skip to Main Content
+               
 
  Window
 ======

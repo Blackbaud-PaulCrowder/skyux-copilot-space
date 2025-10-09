@@ -1,4 +1,4 @@
-             Skip to Main Content
+             
 
  1.  [Home](/skyux/)
 2.  [Design](/skyux/design.md)
@@ -11,12 +11,8 @@ Split view page
 
 Split view pages allow users to work through a list of items.
 
-[
-
 Usage
 -----
-
-](/skyux/design/guidelines/page-layouts/split-view-page#usage.md)
 
 ### Use when
 
@@ -30,12 +26,8 @@ Do use split view pages when users need to work through a list of items.
 
 Don't use split view pages when users need to take action on only a small number of items in the list. Use [list pages](/skyux/design/guidelines/page-layouts/list-page.md) instead.
 
-[
-
 Anatomy
 -------
-
-](/skyux/design/guidelines/page-layouts/split-view-page#anatomy.md)
 
 1
 
@@ -55,12 +47,8 @@ Bulk action  (optional)
 
 ![image](https://sky.blackbaudcdn.net/skyuxapps/skyux/assets/img/guidelines/pagelayout/split-view-page/split-view-page-anatomy.7e1a834e003490658eb6a65fedfa3dcb.png)
 
-[
-
 Options
 -------
-
-](/skyux/design/guidelines/page-layouts/split-view-page#options.md)
 
 ### Bulk action
 
@@ -74,12 +62,8 @@ You can use a global action if users may need to take action on all items in the
 
 By default, a split view list should use a repeater layout. Other views can be used (such as a tree view for grouped items), but before using a more complex view consider whether the workflow could be redesigned to allow users to make a narrower selection upstream.
 
-[
-
 Behavior and states
 -------------------
-
-](/skyux/design/guidelines/page-layouts/split-view-page#behavior-and-states.md)
 
 ### Automatically move to the next record
 
@@ -93,12 +77,8 @@ If users need ancillary information about an item, use a hyperlink to open a [fl
 
 You can use flyouts to present ancillary information about an item.
 
-[
-
 Content
 -------
-
-](/skyux/design/guidelines/page-layouts/split-view-page#content.md)
 
 ### List item
 
@@ -112,12 +92,8 @@ Follow existing guidelines to lay out workspace content based on the type of con
 
 The summary action bar can contain one primary action, multiple secondary actions, and one tertiary action. Display actions as separate buttons and collapse them to a menu if they don't fit. Use the same actions for each item in the list.
 
-[
-
 Related information
 -------------------
-
-](/skyux/design/guidelines/page-layouts/split-view-page#related-information.md)
 
 ### Components
 

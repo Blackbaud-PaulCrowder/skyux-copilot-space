@@ -1,4 +1,4 @@
-            Skip to Main Content
+            
 
  1.  [Home](/skyux/)
 2.  [Design](/skyux/design.md)
@@ -10,25 +10,10 @@ Spot illustrations
 
 Spot illustrations orient users and focus their attention across various experiences. Blackbaud's spot illustration library is only available for internal Blackbaud consumers. External consumers can source their own assets to use with the [spot illustration component](/skyux/components/illustration.md).
 
-On this page
-============
-
-1.  [Requesting a spot illustration](/skyux/design/guidelines/spot-illustrations#requesting-a-spot-illustration.md)
-2.  [Principles](/skyux/design/guidelines/spot-illustrations#principles.md)
-3.  [Content](/skyux/design/guidelines/spot-illustrations#content.md)
-4.  [Usage](/skyux/design/guidelines/spot-illustrations#usage.md)
-5.  [Options](/skyux/design/guidelines/spot-illustrations#options.md)
-6.  [Layout](/skyux/design/guidelines/spot-illustrations#layout.md)
-7.  [Related information](/skyux/design/guidelines/spot-illustrations#related-information.md)
-
 These guidelines provide general guidance on how Blackbaud designers can use spot illustrations in their designs, even though SKY UX components don't currently offer first-class support. We will update these guidelines with implementation details for spot illustrations as we determine them.
-
-[
 
 Principles
 ----------
-
-](/skyux/design/guidelines/spot-illustrations#principles.md)
 
 Spot illustrations are decorative illustrations that link concepts, drive emotions, and shape narratives. They simplify complex ideas and enhance the visual identity of Blackbaud applications. They are not innately interactive, but you can use them in specific scenarios to shape and support a page's visual hierarchy. Spot illustrations follow these principles:
 
@@ -44,12 +29,8 @@ The presence and use of spot illustrations reflects how we want users to feel wi
 
 Spot illustrations align with Blackbaud's brand aesthetic and personality and provide a consistent, cohesive user experience across features and workflows.
 
-[
-
 Content
 -------
-
-](/skyux/design/guidelines/spot-illustrations#content.md)
 
 Spot illustrations enhance user comprehension. In addition to anchoring content containers to make them more visible within a page’s visual hierarchy, they work as a visual shorthand to communicate the purpose of their containers. Spot illustrations must provide context and work hand-in-hand with the surrounding text to deliver clear, cohesive messages to users.
 
@@ -59,12 +40,8 @@ In some cases, you can use a single spot illustration in multiple contexts to re
 
 Do use spot illustrations and the surrounding text to communicate a cohesive message.
 
-[
-
 Usage
 -----
-
-](/skyux/design/guidelines/spot-illustrations#usage.md)
 
 ### Use when
 
@@ -82,12 +59,8 @@ Don't use spot illustrations as a visual shorthand to supplement action labels. 
 
 Don't use spot illustrations in place of icons.
 
-[
-
 Options
 -------
-
-](/skyux/design/guidelines/spot-illustrations#options.md)
 
 ### Size
 
@@ -115,12 +88,8 @@ In general, don't use the extra large size. But on pages with no other content, 
 
 Spot illustrations have four size variations.
 
-[
-
 Layout
 ------
-
-](/skyux/design/guidelines/spot-illustrations#layout.md)
 
 When placing spot illustrations within components or other page elements, follow the below design specifications to ensure their effectiveness.
 
@@ -168,12 +137,8 @@ Use medium spot illustrations in this vertical layout when split view lists incl
 
 Spacing for center-aligned illustrations and text.
 
-[
-
 Related information
 -------------------
-
-](/skyux/design/guidelines/spot-illustrations#related-information.md)
 
 ### Components
 

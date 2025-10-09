@@ -1,4 +1,4 @@
-             Skip to Main Content
+             
 
  1.  [Home](/skyux/)
 2.  [Learn](/skyux/learn.md)
@@ -11,12 +11,8 @@ Definition list
 
 The [definition list](/skyux/components/definition-list.md) component is deprecated in favor of the [description list](/skyux/components/description-list.md) component.
 
-[
-
 How to migrate
 --------------
-
-](/skyux/learn/develop/deprecation/definition-list#how-to-migrate.md)
 
 SKY UX created a migration script to help you migrate to the description list component. From a project that uses the definition list component, run the following command:
 
@@ -28,12 +24,8 @@ npx ng g @skyux/packages:convert-definition-list-to-description-list
 
     npx ng g @skyux/packages:convert-definition-list-to-description-list
 
-[
-
 What to review after the script
 -------------------------------
-
-](/skyux/learn/develop/deprecation/definition-list#what-to-review-after-the-script.md)
 
 After you run the migration script, review the following items in your project:
 

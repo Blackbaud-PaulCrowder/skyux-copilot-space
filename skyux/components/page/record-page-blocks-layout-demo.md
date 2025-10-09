@@ -1,4 +1,4 @@
-              Skip to Main Content
+              
 
  $1,000.00 pledge
 ================

@@ -1,4 +1,4 @@
-             Skip to Main Content
+             
 
  1.  [Home](/skyux/)
 2.  [Learn](/skyux/learn.md)
@@ -27,23 +27,15 @@ Example of a modal in the default visual theme
 
 Example of a modal in the modern visual theme
 
-[
-
 Modern theme adoption
 ---------------------
-
-](/skyux/learn/visual-theme#modern-theme-adoption.md)
 
 Partners and developers should enable theme support alongside Blackbaud's rolling adoption of modern visual theme. When SPAs and SKY Add-ins are properly designed and configured, they can present either the default theme or modern theme to match the solution where they appear. This keeps user experiences consistent no matter when or where an add-in is applied. It is important to use the most up-to-date SKY UX syntax for [styles](/skyux/design/styles.md) and follow [design guidelines](/skyux/design/guidelines.md) for the best results in both visual themes.
 
 [Read more about enabling theme support](/skyux/learn/visual-theme/enable-modern.md).
 
-[
-
 Theme switching in SKY UX documentation
 ---------------------------------------
-
-](/skyux/learn/visual-theme#theme-switching-in-sky-ux-documentation.md)
 
 The toggle switch under the navigation bar changes the visual theme displayed on this site.
 

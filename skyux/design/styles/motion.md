@@ -1,4 +1,4 @@
-            Skip to Main Content
+            
 
  1.  [Home](/skyux/)
 2.  [Design](/skyux/design.md)
@@ -8,19 +8,8 @@
 Motion
 ======
 
-On this page
-============
-
-1.  [Principles](/skyux/design/styles/motion#principles.md)
-2.  [Physics](/skyux/design/styles/motion#physics.md)
-3.  [Examples](/skyux/design/styles/motion#examples.md)
-
-[
-
 Principles
 ----------
-
-](/skyux/design/styles/motion#principles.md)
 
 Motion, by its nature, catches the eye. Our brains are well-practiced at interpreting motion, and we can use the smallest details to learn about objects, the relationships between them, and the forces at work when things change.
 
@@ -37,12 +26,8 @@ SKY UX does NOT use animations to:
 *   Draw attention to primary actions
 *   Distract or divert users
 
-[
-
 Physics
 -------
-
-](/skyux/design/styles/motion#physics.md)
 
 Like other properties of visual design, motion takes advantage of the observer's expectations to simulate physical space in a digital picture. Just as shadows suggest depth and perspective, the details of motion imply properties about objects and the forces between them. SKY UX follows some basic rules to ensure that motion looks natural and realistic and that it demonstrates context to users.
 
@@ -59,12 +44,8 @@ Like other properties of visual design, motion takes advantage of the observer's
     *   Acceleration curve
     *   Trajectory
 
-[
-
 Examples
 --------
-
-](/skyux/design/styles/motion#examples.md)
 
 SKY UX uses a set of metaphor-based motion effects. These patterns should be included in the definitions of SKY UX components and should not be invoked directly.
 

@@ -1,4 +1,4 @@
-            Skip to Main Content
+            
 
  1.  [Home](/skyux/)
 2.  [Learn](/skyux/learn.md)
@@ -10,28 +10,13 @@ Test for accessibility
 
 SKY UX employs several methods to test components for accessibility. You can use the same practices and tools to ensure your applications are highly accessible.
 
-On this page
-============
-
-1.  [Run automated accessibility tests](/skyux/learn/accessibility/test#run-automated-accessibility-tests.md)
-2.  [Incorporate accessibility checks in a code review](/skyux/learn/accessibility/test#incorporate-accessibility-checks-in-a-code-review.md)
-3.  [Complete manual keyboard testing](/skyux/learn/accessibility/test#complete-manual-keyboard-testing.md)
-
-[
-
 Run automated accessibility tests
 ---------------------------------
 
-](/skyux/learn/accessibility/test#run-automated-accessibility-tests.md)
-
 The [`@skyux-sdk/testing` library](https://github.com/blackbaud/skyux/tree/main/libs/sdk/testing) provides methods to run [`axe-core` automated accessibility tests](https://github.com/dequelabs/axe-core) in your unit tests. `axe-core` includes rules covering a subset of the W3C's WCAG 2.2 A and AA success criteria. For guidance on how to run accessibility checks in SKY UX unit tests, see [accessibility tests](/skyux/learn/accessibility/test/accessibility-tests.md).
-
-[
 
 Incorporate accessibility checks in a code review
 -------------------------------------------------
-
-](/skyux/learn/accessibility/test#incorporate-accessibility-checks-in-a-code-review.md)
 
 Perform a review using the following SKY UX accessibility code review checklist to identify potential accessibility problems that automated `axe-core` testing can not evaluate.
 
@@ -60,12 +45,8 @@ For details of semantic markup, see [Getting to know HTML](https://learn.shayhow
 
 For custom interactive controls that are used in ways that are not part of the HTML standard, ensure that the elements have the necessary ARIA roles, states, and properties. For information about how to make components and behaviors accessible with ARIA roles, states, and properties, see [WAI-ARIA Authoring Practices](https://www.w3.org/TR/wai-aria-practices/).
 
-[
-
 Complete manual keyboard testing
 --------------------------------
-
-](/skyux/learn/accessibility/test#complete-manual-keyboard-testing.md)
 
 Follow the procedures below to ensure that people can use your feature with a keyboard only.
 

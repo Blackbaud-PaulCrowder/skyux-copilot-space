@@ -1,4 +1,4 @@
-             Skip to Main Content
+             
 
  1.  [Home](/skyux/)
 2.  [Design](/skyux/design.md)
@@ -11,12 +11,8 @@ Record page
 
 Record pages support all user tasks related to a record. They can contain different types of views depending on the tasks that users need to complete.
 
-[
-
 Usage
 -----
-
-](/skyux/design/guidelines/page-layouts/record-page#usage.md)
 
 ### Use when
 
@@ -30,12 +26,8 @@ Do use record pages when users need information about an object in one place.
 
 Don't use record pages when you can predict the actions that users need to take and can provide first-class experiences for those tasks, such as needs attention items in action hubs.
 
-[
-
 Anatomy
 -------
-
-](/skyux/design/guidelines/page-layouts/record-page#anatomy.md)
 
 1
 
@@ -67,12 +59,8 @@ Page actions  (optional)
 
 ![image](https://sky.blackbaudcdn.net/skyuxapps/skyux/assets/img/guidelines/pagelayout/record-page/modern-record-page-anatomy.6f8d9879c7a7629deab2f7f51174ab83.png)
 
-[
-
 Options
 -------
-
-](/skyux/design/guidelines/page-layouts/record-page#options.md)
 
 ### Avatar
 
@@ -149,23 +137,15 @@ Finally, place common platform tabs last in the following order:
 
 ![undefined](https://sky.blackbaudcdn.net/skyuxapps/skyux/assets/img/guidelines/pagelayout/record-page/modern-record-tabs-diagram.a4b939abd390094b6cb6e83570acd83c.png)
 
-[
-
 Layout
 ------
-
-](/skyux/design/guidelines/page-layouts/record-page#layout.md)
 
 ### Content area layout
 
 Use a columnar layout with 1:1:1, 1:2, 2:1, or full-width sections as appropriate based on the content.
 
-[
-
 Related information
 -------------------
-
-](/skyux/design/guidelines/page-layouts/record-page#related-information.md)
 
 ### Components
 

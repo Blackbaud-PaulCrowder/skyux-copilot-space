@@ -1,4 +1,4 @@
-            Skip to Main Content
+            
 
  1.  [Home](/skyux/)
 2.  [Design](/skyux/design.md)
@@ -8,19 +8,8 @@
 Content containers
 ==================
 
-On this page
-============
-
-1.  [Divide a page into sections of related content](/skyux/design/guidelines/content-containers#divide-a-page-into-sections-of-related-content.md)
-2.  [Present instances of a collection of related items](/skyux/design/guidelines/content-containers#present-instances-of-a-collection-of-related-items.md)
-3.  [Reveal content that is not always visible](/skyux/design/guidelines/content-containers#reveal-content-that-is-not-always-visible.md)
-
-[
-
 Divide a page into sections of related content
 ----------------------------------------------
-
-](/skyux/design/guidelines/content-containers#divide-a-page-into-sections-of-related-content.md)
 
 For more information about using containers, see the [page design guidelines](/skyux/design/guidelines/page-layouts.md).
 
@@ -48,12 +37,8 @@ Tiles are containers for content from external sources. When the contents of a p
 
 The content inside tiles will vary widely, and tiles can contain toolbars to house action related to their content.
 
-[
-
 Present instances of a collection of related items
 --------------------------------------------------
-
-](/skyux/design/guidelines/content-containers#present-instances-of-a-collection-of-related-items.md)
 
 ### [Repeater list](/skyux/components/repeater.md)
 
@@ -69,12 +54,8 @@ Data grids commonly use [data manager](/skyux/components/data-manager.md) and a 
 
 Use data grids in full-page formats or inside of full-page tabs. Within smaller containers such as boxes, use repeaters instead because they scale down better than data grids.
 
-[
-
 Reveal content that is not always visible
 -----------------------------------------
-
-](/skyux/design/guidelines/content-containers#reveal-content-that-is-not-always-visible.md)
 
 ### [Modal](/skyux/components/modal.md)
 

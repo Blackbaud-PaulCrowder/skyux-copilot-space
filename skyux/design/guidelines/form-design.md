@@ -1,4 +1,4 @@
-            Skip to Main Content
+            
 
  1.  [Home](/skyux/)
 2.  [Design](/skyux/design.md)
@@ -10,23 +10,8 @@ Form design
 
 Form design patterns provide guidance to accommodate a wide variety scenarios and workflow requirements.
 
-On this page
-============
-
-1.  [Form containers](/skyux/design/guidelines/form-design#form-containers.md)
-2.  [Form layout](/skyux/design/guidelines/form-design#form-layout.md)
-3.  [Field usability](/skyux/design/guidelines/form-design#field-usability.md)
-4.  [Selection inputs](/skyux/design/guidelines/form-design#selection-inputs.md)
-5.  [Validation and error handling](/skyux/design/guidelines/form-design#validation-and-error-handling.md)
-6.  [Unsaved data](/skyux/design/guidelines/form-design#unsaved-data.md)
-7.  [Related information](/skyux/design/guidelines/form-design#related-information.md)
-
-[
-
 Form containers
 ---------------
-
-](/skyux/design/guidelines/form-design#form-containers.md)
 
 ### Inline form
 
@@ -74,12 +59,8 @@ A [wizard](/skyux/components/tabs-wizard.md) is appropriate for forms that meet 
 *   User actions in earlier steps affect later steps.
 *   Users must complete or review the fields in every step.
 
-[
-
 Form layout
 -----------
-
-](/skyux/design/guidelines/form-design#form-layout.md)
 
 Form fields generally flow vertically, and [input boxes](/skyux/components/input-box.md) and other SKY UX form field components provide styling, ordering, and positioning within forms. To add bottom margins that ensure consistent vertical spacing between form fields, use `stacked` in most cases.
 
@@ -138,12 +119,8 @@ Sometimes, forms include conditional fields that are only applicable when certai
 
 ![undefined](https://sky.blackbaudcdn.net/skyuxapps/skyux/assets/img/guidelines/formdesign/form-design-form-layout-4.a3540b808ac8ce2b4653f8b53d406f44.png)
 
-[
-
 Field usability
 ---------------
-
-](/skyux/design/guidelines/form-design#field-usability.md)
 
 ### Labels
 
@@ -209,12 +186,8 @@ Browsers provide suggested text based on previous entries, so `autocomplete` is 
 
 For information about whether to use persistent inline help or invoked inline help content, see the [user assistance guidelines](/skyux/design/guidelines/user-assistance.md).
 
-[
-
 Selection inputs
 ----------------
-
-](/skyux/design/guidelines/form-design#selection-inputs.md)
 
 You can take several different approaches to allow users to select items from lists.
 
@@ -223,12 +196,8 @@ You can take several different approaches to allow users to select items from li
 *   The HTML `<select>` field is effective when users are not sure of the exact value they are looking for and can select a single item from a moderately sized list. Use HTML `<select>` fields to present six to 20 items.
 *   The [lookup field](/skyux/components/lookup.md) provides a typeahead search input that is effective when users know what they are looking for and can select multiple items. Use lookup fields to present very large lists.
 
-[
-
 Validation and error handling
 -----------------------------
-
-](/skyux/design/guidelines/form-design#validation-and-error-handling.md)
 
 ### Validation timing
 
@@ -295,23 +264,15 @@ If form-level actions make form fields invalid, place focus on the first invalid
 
 ![undefined](https://sky.blackbaudcdn.net/skyuxapps/skyux/assets/img/guidelines/formdesign/form-errors.ccfc9d691197807c70967bc685974c14.png)
 
-[
-
 Unsaved data
 ------------
-
-](/skyux/design/guidelines/form-design#unsaved-data.md)
 
 If users close a form before saving their changes, warn them about the unsaved data with a [confirmation dialog](/skyux/components/confirm.md). For modals, see the Development tab of the [component docs](/skyux/components/modal.md) for details on how to use `SkyModalIsDirtyDirective`.
 
 ![undefined](https://sky.blackbaudcdn.net/skyuxapps/skyux/assets/img/guidelines/formdesign/modal-close-confirm.f756192fa9878ff34249421a094c4aa3.png)
 
-[
-
 Related information
 -------------------
-
-](/skyux/design/guidelines/form-design#related-information.md)
 
 ### Components
 

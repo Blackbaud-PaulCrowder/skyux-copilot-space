@@ -1,4 +1,4 @@
-           Skip to Main Content
+           
 
 SKY UX® design system
 =====================

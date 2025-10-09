@@ -1,4 +1,4 @@
-              Skip to Main Content
+              
 
  1.  [Home](/skyux/)
 2.  [Design](/skyux/design.md)
@@ -13,23 +13,8 @@ The content guidelines for dates and times promotes consistency across Blackbaud
 
 We recommend using the SKY UX [date pipe](/skyux/components/date-pipe.md) to format dates and times based on the user's locale.
 
-On this page
-============
-
-1.  [Localization](/skyux/design/guidelines/content/dates-times#localization.md)
-2.  [Date formats](/skyux/design/guidelines/content/dates-times#date-formats.md)
-3.  [Time formats](/skyux/design/guidelines/content/dates-times#time-formats.md)
-4.  [Date and time formats](/skyux/design/guidelines/content/dates-times#date-and-time-formats.md)
-5.  [Date and time ranges](/skyux/design/guidelines/content/dates-times#date-and-time-ranges.md)
-6.  [Abbreviations](/skyux/design/guidelines/content/dates-times#abbreviations.md)
-7.  [Relative dates and times](/skyux/design/guidelines/content/dates-times#relative-dates-and-times.md)
-
-[
-
 Localization
 ------------
-
-](/skyux/design/guidelines/content/dates-times#localization.md)
 
 Use the [date pipe](/skyux/components/date-pipe.md) to localize dates and times. Display values based on the user's locale and time zone. For example, use locales to determine the correct order of the month and day, such as MM/DD/YYYY vs. DD/MM/YYYY, and whether to use 12- or 24-hour times.
 
@@ -41,12 +26,8 @@ We always recommend localizing dates and times, but in some situations, you may 
 *   For times, use "AM" or "PM" with no periods for 12-hour times and specify time zones without standard or daylight time using all-caps abbreviations with no periods.
 *   For time zones, use two-letter abbreviations in the United States, and use regional abbreviations outside of the U.S. For example, use "1:30 PM CT" for U.S. Central Time and "11:30 AM AWT" for Australian Western Time.
 
-[
-
 Date formats
 ------------
-
-](/skyux/design/guidelines/content/dates-times#date-formats.md)
 
 SKY UX applications mostly use three date formats, plus fuzzy dates for when full dates are unnecessary or unavailable. Use context details, such as placement and the available space, to determine the best format for each scenario.
 
@@ -108,12 +89,8 @@ Do use long dates and fuzzy dates in display text, such as page headings.
 
 Don't use ordinal numbers, such as "1st," "third," or "twenty-eighth," in dates.
 
-[
-
 Time formats
 ------------
-
-](/skyux/design/guidelines/content/dates-times#time-formats.md)
 
 For specific points in time, such as when an event starts or an action takes place, separate hours and minutes with colons and no spaces. Only include seconds if that level of precision is necessary. Include leading zeroes for minutes but not hours.
 
@@ -137,12 +114,8 @@ Short time
 
 Use short times in most cases. Reserve longer time formats for scenarios that require additional details, such as seconds or the time zone.
 
-[
-
 Date and time formats
 ---------------------
-
-](/skyux/design/guidelines/content/dates-times#date-and-time-formats.md)
 
 Combine dates and times when users need to know both. Use context details such as placement and the available space to determine the best format for each scenario.
 
@@ -182,12 +155,8 @@ Sunday, April 25, 2027 at 4:15 PM
 
 Use when the day of the week is important to emphasize. Separate the date and time with "at." (If you need to lead with the time, separate with "on" instead.)
 
-[
-
 Date and time ranges
 --------------------
-
-](/skyux/design/guidelines/content/dates-times#date-and-time-ranges.md)
 
 Date and time ranges combine start dates and times with their end dates and times.
 
@@ -224,12 +193,8 @@ Registration is open from June 7, 2026–July 18, 2026.
 
 4:30 PM - 6:00 PM
 
-[
-
 Abbreviations
 -------------
-
-](/skyux/design/guidelines/content/dates-times#abbreviations.md)
 
 In display text, don't abbreviate months or days of the week unless context makes the meaning clear. When necessary, abbreviate to the first three letters of the month or day with no period. For example, if a chart uses months as the x-axis, you can use three-letter abbreviations for consistent spacing across screen sizes because the sequence provides the necessary context to avoid confusion even if the text is translated to a language where some months start with the same three letters.
 
@@ -265,12 +230,8 @@ Do spell out months and days in labels.
 
 Don't abbreviate in labels.
 
-[
-
 Relative dates and times
 ------------------------
-
-](/skyux/design/guidelines/content/dates-times#relative-dates-and-times.md)
 
 Relative dates and times provide a sense of urgency. Whereas exact dates, such as April 25, 2027, and exact times, such as 12:54 AM, indicate specific points in time, relative dates and times help users to quickly understand the recency of an event relative to the current date or time. For example, relative dates and times help indicate how recently data was last updated.
 

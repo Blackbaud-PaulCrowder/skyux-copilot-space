@@ -1,4 +1,4 @@
-            Skip to Main Content
+            
 
  1.  [Home](/skyux/)
 2.  [Design](/skyux/design.md)
@@ -12,24 +12,8 @@ Text in the user interface (UI) facilitates a conversation between the applicati
 
 SKY UX guidance for UI text mostly focuses on recurring or exceptional scenarios, and unless otherwise noted, SKY UX follows [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html) and [Merriam-Webster](https://www.merriam-webster.com/).
 
-On this page
-============
-
-1.  [Voice and tone](/skyux/design/guidelines/content#voice-and-tone.md)
-2.  [Grammar and word choice](/skyux/design/guidelines/content#grammar-and-word-choice.md)
-3.  [Capitalization](/skyux/design/guidelines/content#capitalization.md)
-4.  [Punctuation](/skyux/design/guidelines/content#punctuation.md)
-5.  [Labels](/skyux/design/guidelines/content#labels.md)
-6.  [Page titles](/skyux/design/guidelines/content#page-titles.md)
-7.  [Dates and times](/skyux/design/guidelines/content#dates-and-times.md)
-8.  [Related information](/skyux/design/guidelines/content#related-information.md)
-
-[
-
 Voice and tone
 --------------
-
-](/skyux/design/guidelines/content#voice-and-tone.md)
 
 A cohesive voice in the UI text creates a recognizable, consistent feeling that is distinct from other user experiences. UI text includes labels, inline help, error messages, and all other text that appears in the user interface.
 
@@ -42,12 +26,8 @@ In SKY UX applications, UI text focuses on user needs and makes every word count
 *   Be concise and direct. Limit adjectives, adverbs, and other extraneous verbiage. Keep punctuation simple.
 *   Avoid long or complicated phrasing and terms. Present guidance as commands when appropriate.
 
-[
-
 Grammar and word choice
 -----------------------
-
-](/skyux/design/guidelines/content#grammar-and-word-choice.md)
 
 ### Active voice
 
@@ -95,21 +75,13 @@ To ensure consistency and minimize translation issues, don't use symbols in plac
 
 The only time to use a symbol in place of a word is when a symbol is part of a company's name or abbreviation, such as AT&T, Gulf + Western, or Proctor & Gamble.
 
-[
-
 Capitalization
 --------------
 
-](/skyux/design/guidelines/content#capitalization.md)
-
 Use sentence-style capitalization for headings, labels, and all other UI text. Capitalize the first letter of the first word plus any proper nouns and acronyms, but lowercase everything else.
-
-[
 
 Punctuation
 -----------
-
-](/skyux/design/guidelines/content#punctuation.md)
 
 ### Colons
 
@@ -123,12 +95,8 @@ Use commas before the conjunctions in lists (aka the Oxford comma).
 
 In general, avoid punctuation at the end of the headings, especially periods.
 
-[
-
 Labels
 ------
-
-](/skyux/design/guidelines/content#labels.md)
 
 ### Actions to create and remove items
 
@@ -149,12 +117,8 @@ This guidance applies to button labels and also to the headings on the pages or 
 
 For additional guidance on button labels, see the [button classes](/skyux/components/button.md).
 
-[
-
 Page titles
 -----------
-
-](/skyux/design/guidelines/content#page-titles.md)
 
 Page titles uniquely identify the contents of pages. They are concise and direct, and they indicate the purpose of the pages to get users up to speed quickly. The data in page titles depends on the users and the context in which they visit the pages. You can combine multiple pieces of data in page titles and pull data from multiple sources.
 
@@ -167,21 +131,13 @@ Follow these general guidelines for page titles:
 
 Use the following format to display page titles in browser tabs: <Page title> — <Company, product, or site identifier>. If pages include tabbed subnavigation, adjust the format to include tab titles: <Tab title> — <Page title> — <Company, product, or site identifier>. For example, Blackbaud solutions use the company name after tab titles and page titles: Portfolio — Work center — Blackbaud.
 
-[
-
 Dates and times
 ---------------
 
-](/skyux/design/guidelines/content#dates-and-times.md)
-
 For guidance on how to display dates and times in the UI for a consistent user experience, see [Dates and times](/skyux/design/guidelines/content/dates-times.md).
-
-[
 
 Related information
 -------------------
-
-](/skyux/design/guidelines/content#related-information.md)
 
 ### Guidelines
 

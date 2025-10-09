@@ -1,4 +1,4 @@
-            Skip to Main Content
+            
 
  1.  [Home](/skyux/)
 2.  [Learn](/skyux/learn.md)
@@ -29,11 +29,7 @@ The following are not part of the supported public API and are subject to change
     *   Manipulating elements inside a component programmatically. Use the component's inputs instead.
     *   Writing selectors in unit tests to validate or interact with a component. Use the component's test harness instead.
 
-[
-
 Breaking changes in major versions
 ----------------------------------
-
-](/skyux/learn/develop/public-api#breaking-changes-in-major-versions.md)
 
 While we make every effort to maintain compatibility between major versions of SKY UX, sometimes it is necessary to change the public API in a way that causes consumers to change their code. Breaking changes are noted as such in the [SKY UX changelog](https://github.com/blackbaud/skyux/blob/main/CHANGELOG.md). SKY UX follows [semantic versioning rules](https://semver.org/), so breaking changes are only made in major version updates.

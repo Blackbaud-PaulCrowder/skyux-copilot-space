@@ -1,4 +1,4 @@
-              Skip to Main Content
+              
 
  1.  [Home](/skyux/)
 2.  [Design](/skyux/design.md)
@@ -10,45 +10,22 @@ Error handling
 
 Error handling patterns provide guidance on how to present error messages depending on the context.
 
-On this page
-============
-
-1.  [Style and tone](/skyux/design/guidelines/error-handling#style-and-tone.md)
-2.  [Accessibility guidelines](/skyux/design/guidelines/error-handling#accessibility-guidelines.md)
-3.  [Error message images](/skyux/design/guidelines/error-handling#error-message-images.md)
-4.  [Page errors](/skyux/design/guidelines/error-handling#page-errors.md)
-5.  [Page element errors](/skyux/design/guidelines/error-handling#page-element-errors.md)
-6.  [Background process errors](/skyux/design/guidelines/error-handling#background-process-errors.md)
-7.  [Form errors](/skyux/design/guidelines/error-handling#form-errors.md)
-
-[
-
 Style and tone
 --------------
-
-](/skyux/design/guidelines/error-handling#style-and-tone.md)
 
 Make error and warning messages short and succinct, and use a conversational tone. Keep the title brief, and when possible, use a description to offer a solution and to explain why the error or warning is occurring. To provide a consistent user experience, use the [error component](/skyux/components/error.md).
 
 Errors can frustrate users and sometimes indicate serious problems, so be thoughtful and helpful with the wording. Avoid humor, limit the use of "please" and "sorry," and avoid negative constructions such as "you can't" and "you don't" that could be received as criticism.
 
-[
-
 Accessibility guidelines
 ------------------------
-
-](/skyux/design/guidelines/error-handling#accessibility-guidelines.md)
 
 Don't rely on a single sensory characteristic of components such as shape, size, visual location, orientation, or sound to describe an error or offer a solution. "Above" and "below" are fine for referencing content in the appropriate reading order for the language used as long as the reference isn't ambiguous.
 
 Error messages should be as specific as possible to help the user determine what is wrong.
 
-[
-
 Error message images
 --------------------
-
-](/skyux/design/guidelines/error-handling#error-message-images.md)
 
 The error message images apply to different scenarios and should be used accordingly.
 
@@ -95,23 +72,15 @@ Do _not_ use an image for:
 *   Errors when content won't load in container components, such as boxes.
 *   Errors when users can't save changes, such as when actions don't complete.
 
-[
-
 Page errors
 -----------
-
-](/skyux/design/guidelines/error-handling#page-errors.md)
 
 A variety of page-level errors can occur, usually due to system failures rather than user actions. [The error component](/skyux/components/error.md) includes default content that applies to most scenarios, and the content can be customized if necessary to be more precise or prescriptive.
 
 ![Full page with broken error image and message centered on page.](https://sky.blackbaudcdn.net/skyuxapps/skyux/assets/img/guidelines/errorhandling/page-error.95b6c6b2bf5502566b31c316159634d4.png)
 
-[
-
 Page element errors
 -------------------
-
-](/skyux/design/guidelines/error-handling#page-element-errors.md)
 
 Forms
 
@@ -135,22 +104,14 @@ Boxes have limited space and may not be important to users' immediate tasks, so 
 
 ![Box with error message under the box heading.](https://sky.blackbaudcdn.net/skyuxapps/skyux/assets/img/guidelines/errorhandling/box-error.d4473eb70a162188657f5c9dfc44a533.png)
 
-[
-
 Background process errors
 -------------------------
-
-](/skyux/design/guidelines/error-handling#background-process-errors.md)
 
 Since background processes run outside the current page context, use [toasts](/skyux/components/toast.md) to notify the user of an error with a background process. Toasts appear regardless of which page users are on and persist as they navigate through the system.
 
 ![Full page with error message in toast.](https://sky.blackbaudcdn.net/skyuxapps/skyux/assets/img/guidelines/errorhandling/background-error.c2b0ca2ea9106d39b77819089f86d532.png)
 
-[
-
 Form errors
 -----------
-
-](/skyux/design/guidelines/error-handling#form-errors.md)
 
 For validation and error handling within forms, see the [form design guidelines](/skyux/design/guidelines/form-design#validation-and-error-handling.md).

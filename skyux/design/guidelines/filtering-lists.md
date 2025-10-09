@@ -1,4 +1,4 @@
-              Skip to Main Content
+              
 
  1.  [Home](/skyux/)
 2.  [Design](/skyux/design.md)
@@ -10,26 +10,8 @@ Filtering lists
 
 Filters enable users to adjust lists to only display the items that match their specific criteria.
 
-On this page
-============
-
-1.  [Principles](/skyux/design/guidelines/filtering-lists#principles.md)
-2.  [Usage](/skyux/design/guidelines/filtering-lists#usage.md)
-3.  [Contexts for filtering lists](/skyux/design/guidelines/filtering-lists#contexts-for-filtering-lists.md)
-4.  [Pre-filtering full-page lists](/skyux/design/guidelines/filtering-lists#pre-filtering-full-page-lists.md)
-5.  [Filter bar anatomy](/skyux/design/guidelines/filtering-lists#filter-bar-anatomy.md)
-6.  [Filter bar options](/skyux/design/guidelines/filtering-lists#filter-bar-options.md)
-7.  [Filter bar filter types](/skyux/design/guidelines/filtering-lists#filter-bar-filter-types.md)
-8.  [Filter bar behavior and states](/skyux/design/guidelines/filtering-lists#filter-bar-behavior-and-states.md)
-9.  [Filter bar content](/skyux/design/guidelines/filtering-lists#filter-bar-content.md)
-10.  [Related information](/skyux/design/guidelines/filtering-lists#related-information.md)
-
-[
-
 Principles
 ----------
-
-](/skyux/design/guidelines/filtering-lists#principles.md)
 
 Follow these [SKY UX design principles](/skyux/design/principles.md) when you include filters with lists, and present the filtering options based on the needs of users and the specific scenarios.
 
@@ -45,12 +27,8 @@ Don't overwhelm users or clutter the user interface with too many filters. Colla
 
 Consider options, such as pre-filtered lists, to present lists that don't require filtering.
 
-[
-
 Usage
 -----
-
-](/skyux/design/guidelines/filtering-lists#usage.md)
 
 Include filters with lists when users can:
 
@@ -58,12 +36,8 @@ Include filters with lists when users can:
 *   Create smaller, filtered lists to take action on multiple items or to complete related tasks.
 *   Create datasets to review, export, or take action on items.
 
-[
-
 Contexts for filtering lists
 ----------------------------
-
-](/skyux/design/guidelines/filtering-lists#contexts-for-filtering-lists.md)
 
 ### Full-page lists
 
@@ -103,12 +77,8 @@ If users need more filters or more complex filtering, use a dedicated list view 
 
 Expandable filters let users expand and collapse the filters. The filter button is highlighted when filters are set.
 
-[
-
 Pre-filtering full-page lists
 -----------------------------
-
-](/skyux/design/guidelines/filtering-lists#pre-filtering-full-page-lists.md)
 
 When users regularly need to access or work with collections of items, consider providing pre-filtered lists.
 
@@ -141,12 +111,8 @@ Don't use tabs for a large set of pre-filtered lists.
 
 Do use pre-filtered lists to make user workflows more efficient. Users can narrow lists further as necessary.
 
-[
-
 Filter bar anatomy
 ------------------
-
-](/skyux/design/guidelines/filtering-lists#filter-bar-anatomy.md)
 
 ### Filter bar
 
@@ -200,12 +166,8 @@ Combination filter popover details
 
 ![image](https://sky.blackbaudcdn.net/skyuxapps/skyux/assets/img/guidelines/filteringrecords/anatomy-filter-bar-full.4dd97bc00b122d1b87fe18a3113c32bf.png)
 
-[
-
 Filter bar options
 ------------------
-
-](/skyux/design/guidelines/filtering-lists#filter-bar-options.md)
 
 ### Filter chooser
 
@@ -231,12 +193,8 @@ When users may require the ability to apply logic to filtering criteria, enable 
 
 Users enable operators through a dropdown and then apply them from the filter bar.
 
-[
-
 Filter bar filter types
 -----------------------
-
-](/skyux/design/guidelines/filtering-lists#filter-bar-filter-types.md)
 
 Multiple types of selection methods are available for filtering lists. They support a large and powerful range of filter criteria creation, including a single value for a property, multiple values for a property, ranges of numbers and dates, and more complex filter groupings.
 
@@ -472,12 +430,8 @@ More than one value set
 
 ![undefined](https://sky.blackbaudcdn.net/skyuxapps/skyux/assets/img/guidelines/filteringrecords/filter-button-multi-combo-more.24dc10cbdf9e12b3058ca59965106a4a.png)
 
-[
-
 Filter bar behavior and states
 ------------------------------
-
-](/skyux/design/guidelines/filtering-lists#filter-bar-behavior-and-states.md)
 
 ### Clearing filters
 
@@ -575,23 +529,15 @@ When filters or search criteria are applied to a list, update the list count and
 
 Do update summary details when filters or search criteria are applied to a list. To provide context, update the list count label to include 'match.'
 
-[
-
 Filter bar content
 ------------------
-
-](/skyux/design/guidelines/filtering-lists#filter-bar-content.md)
 
 Use colons after filter property names when filters are set.
 
 When displaying filters in the filter bar by default, organize them in descending order of importance based the tasks that users will perform. Place the most important or most frequently used first filters first.
 
-[
-
 Related information
 -------------------
-
-](/skyux/design/guidelines/filtering-lists#related-information.md)
 
 ### Guidelines
 

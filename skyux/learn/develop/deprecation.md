@@ -1,4 +1,4 @@
-                Skip to Main Content
+                
 
  1.  [Home](/skyux/)
 2.  [Learn](/skyux/learn.md)
@@ -12,12 +12,8 @@ As SKY UX evolves, sometimes features are replaced by newer patterns or no longe
 
 Deprecated features remain available within SKY UX, but they may be removed in the next major version.
 
-[
-
 Deprecation stages
 ------------------
-
-](/skyux/learn/develop/deprecation#deprecation-stages.md)
 
 #### Initial deprecation
 
@@ -31,12 +27,8 @@ After deprecation, features remain in the public API, but maintenance is limited
 
 After we remove a feature, projects that rely on the feature need to move to an alternative to stay current with SKY UX.
 
-[
-
 Deprecated components
 ---------------------
-
-](/skyux/learn/develop/deprecation#deprecated-components.md)
 
 Card
 

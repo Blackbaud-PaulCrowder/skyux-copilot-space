@@ -1,4 +1,4 @@
-            Skip to Main Content
+            
 
  1.  [Home](/skyux/)
 2.  [Design](/skyux/design.md)
@@ -10,19 +10,8 @@ Manage data
 
 When users users need to add, edit, or delete data, follow these SKY UX patterns for the consistent placement and behavior of actions.
 
-On this page
-============
-
-1.  [Add data](/skyux/design/guidelines/managing-records#add-data.md)
-2.  [Edit data](/skyux/design/guidelines/managing-records#edit-data.md)
-3.  [Remove data](/skyux/design/guidelines/managing-records#remove-data.md)
-
-[
-
 Add data
 --------
-
-](/skyux/design/guidelines/managing-records#add-data.md)
 
 ### Add items from a list
 
@@ -46,12 +35,8 @@ On [record pages](/skyux/design/guidelines/page-layouts.md), users can add child
 
 ![Adding child information](https://sky.blackbaudcdn.net/skyuxapps/skyux/assets/img/guidelines/managingrecords/add-child-record.c97cffb0bd29be0ae06dbfcaafba92ea.png)
 
-[
-
 Edit data
 ---------
-
-](/skyux/design/guidelines/managing-records#edit-data.md)
 
 ### Edit items from a list
 
@@ -93,12 +78,8 @@ To enable users edit the data in boxes, display edit buttons in the top right. I
 
 ![Edit non-list-based information](https://sky.blackbaudcdn.net/skyuxapps/skyux/assets/img/guidelines/managingrecords/edit-box.32f25b0ea04d26ffdef3e6e7dbd5a86b.png)
 
-[
-
 Remove data
 -----------
-
-](/skyux/design/guidelines/managing-records#remove-data.md)
 
 ### Delete data
 

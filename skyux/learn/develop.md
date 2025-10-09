@@ -1,4 +1,4 @@
-             Skip to Main Content
+             
 
  1.  [Home](/skyux/)
 2.  [Learn](/skyux/learn.md)
@@ -11,12 +11,8 @@ SKY UX provides a consistent, cohesive user experience with a framework of compo
 
 [SKY UX on GitHub](https://github.com/blackbaud/skyux)
 
-[
-
 Developing with Angular
 -----------------------
-
-](/skyux/learn/develop#developing-with-angular.md)
 
   
 [![](https://sky.blackbaudcdn.net/skyuxapps/skyux/assets/img/learn/angular.5c69e565f1ae6d7717fb3ecd2be004ad.svg)](https://angular.io/)
@@ -38,12 +34,8 @@ Developing with Angular
 
 [Components](/skyux/components.md) are the building blocks that handle navigation, content organization, communication, and other interactions.
 
-[
-
 Not using Angular?
 ------------------
-
-](/skyux/learn/develop#not-using-angular.md)
 
 You can take advantage of SKY UX's versatile design language without using Angular components.
 
@@ -54,12 +46,8 @@ You can take advantage of SKY UX's versatile design language without using Angul
 *   [Guidelines](/skyux/design/guidelines.md) provide helpful patterns for a variety of scenarios, such as filtering lists and handling errors.
     
 
-[
-
 More resources
 --------------
-
-](/skyux/learn/develop#more-resources.md)
 
 *   [SKY UX browser compatibility](https://www.blackbaud.com/training-support/support/system-requirements/supported-browsers-system-requirements)
     

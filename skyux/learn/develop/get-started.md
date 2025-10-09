@@ -1,4 +1,4 @@
-            Skip to Main Content
+            
 
  1.  [Home](/skyux/)
 2.  [Learn](/skyux/learn.md)
@@ -10,21 +10,13 @@ Get started
 
 This section describes the initial setup to work with SKY UX and guides you through displaying a basic SKY UX component.
 
-[
-
 Using Angular
 -------------
 
-](/skyux/learn/develop/get-started#using-angular.md)
-
 SKY UX components are Angular components, so you need a working knowledge of Angular to use them. Angular provides their own [getting started guide](https://angular.io/start) that you can use to familiarize yourself with Angular.
-
-[
 
 Developer setup
 ---------------
-
-](/skyux/learn/develop/get-started#developer-setup.md)
 
 If you are building your first Angular application, follow the [instructions for setting up your local environment](https://angular.io/guide/setup-local) for Angular development. Below are some additional details you may find helpful for setting up your environment.
 
@@ -45,12 +37,8 @@ In addition, SKY UX recommends Node Version Manager (NVM) to wrap your Node.js i
 
 SKY UX requires NPM version 10.x.x, which is the default JavaScript package manager for Node.js. As of Node.js version 0.6.3, it is bundled and installed automatically with the environment. To check your version, run `npm -v` from the command line. To install a specific version, run `npm install` globally and specify the version.
 
-[
-
 Installing SKY UX
 -----------------
-
-](/skyux/learn/develop/get-started#installing-sky-ux.md)
 
 SKY UX is made up of multiple NPM packages, so to use any particular component, you need to install the package that includes that component. In this example, we display a [SKY UX alert component](/skyux/components/alert.md) in an existing Angular application. If you are creating a new Angular application, see Angular's guide for [creating a new project](https://angular.io/tutorial/toh-pt0).
 
@@ -78,12 +66,8 @@ Copy
 
     "styles": ["@skyux/theme/css/sky.css", "@skyux/theme/css/themes/modern/styles.css", "src/styles.scss"]
 
-[
-
 Using SKY UX
 ------------
-
-](/skyux/learn/develop/get-started#using-sky-ux.md)
 
 ### Install the SKY UX indicators library
 
@@ -146,12 +130,8 @@ Hello world!
 
 To use other SKY UX components, see the [components documentation.](/skyux/components.md) Each component documentation page includes the name of the NPM package that contains the component along with API documentation for using the component in your application.
 
-[
-
 Updating SKY UX
 ---------------
-
-](/skyux/learn/develop/get-started#updating-sky-ux.md)
 
 Keeping up with updates to individual SKY UX libraries can be tedious. To help with this, you can update all SKY UX packages that are installed in your application by running the following command:
 

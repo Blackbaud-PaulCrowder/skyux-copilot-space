@@ -1,4 +1,4 @@
-            Skip to Main Content
+            
 
  1.  [Home](/skyux/)
 2.  [Learn](/skyux/learn.md)
@@ -10,21 +10,13 @@ Global help
 
 SKY UX components support displaying help content in a [popover](/skyux/components/popover.md) or a larger container, such as the the help widget (internal Blackbaud use only), a [flyout](/skyux/components/flyout.md), or a new window. This section describes how to integrate the latter into SKY UX components used by your application.
 
-[
-
 Overview
 --------
 
-](/skyux/learn/develop/global-help#overview.md)
-
 Many applications provide a set of help topics that open in a common window or component that can be summoned from multiple places within the application, such as a global help button or individual UI components. Using the techniques in this section, you can use the embedded help button in many SKY UX components to display help topics using your own custom implementation.
-
-[
 
 Configuration
 -------------
-
-](/skyux/learn/develop/global-help#configuration.md)
 
 To implement global help, you must provide an implementation of `SkyHelpService` in your SPA's root module.
 
@@ -73,12 +65,8 @@ Copy
       }
     }
 
-[
-
 Implementation
 --------------
-
-](/skyux/learn/develop/global-help#implementation.md)
 
 With the above configuration, SKY UX components in your application that have the `helpKey` input will open the help topic you specify using your help service.
 
@@ -93,11 +81,7 @@ Copy
       <input type="text" />
     </sky-input-box>
 
-[
-
 Testing
 -------
-
-](/skyux/learn/develop/global-help#testing.md)
 
 SKY UX provides a testing controller to assist with unit tests for global help. For examples of this controller in unit tests, see the code examples for the [page component](/skyux/components/page?docs-active-tab=code-examples.md).
